@@ -10,8 +10,12 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-
+int p = 3.1415;
+int r = 4;
 int main(void) {
-	puts("!!!Hello World!!!"); /* prints !!!Hello World!!! */
+
+
+
+	puts(""); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
